@@ -20,7 +20,7 @@ def home(request):
             "image": "images/portfolio.jpg",
             "description": "Modern animated portfolio created using Django and GSAP.",
             "tech": ["html","css","JavaScript","python","Django","GSAP"],
-            "github": "#",
+            "github": "https://github.com/rohitsharma1218/personal_portfolio",
             "demo": "#"
         },
 
