@@ -25,7 +25,7 @@ def home(request):
         },
 
         {
-            "title": "Calculator",
+            "title": "Web-Calculator",
             "image": "images/calculator.jpg",
             "description": "Simple calculator built with Python and Django.",
             "tech": ["html","css","Python", "flask"],
